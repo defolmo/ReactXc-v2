@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "aUhifD9q7cUgjR5nUBEuDmTP0w1hRXZ2wsDYhnXjFdo=",
+  "Source": "FinanceManagementSystem.Backend",
+  "BasePath": "_content/FinanceManagementSystem.Backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

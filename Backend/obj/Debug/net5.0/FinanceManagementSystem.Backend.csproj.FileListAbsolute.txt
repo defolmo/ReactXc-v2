@@ -1,0 +1,6 @@
+C:\Users\DEFOLMI\Desktop\practic 1\FinanceManagementSystem\Backend\obj\Debug\net5.0\FinanceManagementSystem.Backend.csproj.AssemblyReference.cache
+C:\Users\DEFOLMI\Desktop\practic 1\FinanceManagementSystem\Backend\obj\Debug\net5.0\FinanceManagementSystem.Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEFOLMI\Desktop\practic 1\FinanceManagementSystem\Backend\obj\Debug\net5.0\FinanceManagementSystem.Backend.AssemblyInfoInputs.cache
+C:\Users\DEFOLMI\Desktop\practic 1\FinanceManagementSystem\Backend\obj\Debug\net5.0\FinanceManagementSystem.Backend.AssemblyInfo.cs
+C:\Users\DEFOLMI\Desktop\practic 1\FinanceManagementSystem\Backend\obj\Debug\net5.0\FinanceManagementSystem.Backend.csproj.CoreCompileInputs.cache
+C:\Users\DEFOLMI\Desktop\practic 1\FinanceManagementSystem\Backend\obj\Debug\net5.0\FinanceManagementSystem.Backend.MvcApplicationPartsAssemblyInfo.cache
